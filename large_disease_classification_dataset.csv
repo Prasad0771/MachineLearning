@@ -1,0 +1,601 @@
+Fever (°C),Cough,Fatigue,Headache,Body Pain,Breathing Difficulty,Age,Disease
+38.2,Yes,Yes,No,Yes,Yes,28,Flu
+36.4,No,No,Yes,No,No,6,Allergy
+39.1,Yes,Yes,Yes,Yes,Yes,80,COVID-19
+36.9,Yes,No,Yes,No,Yes,35,Cold
+37,Yes,No,No,Yes,No,85,Cold
+37.5,Yes,Yes,Yes,No,Yes,66,Cold
+36.3,Yes,Yes,Yes,No,Yes,46,Cold
+38.8,No,Yes,Yes,No,Yes,42,Allergy
+40.5,No,Yes,Yes,Yes,Yes,75,Flu
+36.3,Yes,No,Yes,Yes,No,58,Cold
+37.8,No,Yes,Yes,No,No,59,Allergy
+38,Yes,No,Yes,Yes,No,67,Viral Fever
+37.2,Yes,Yes,No,Yes,Yes,62,Cold
+38,Yes,No,Yes,Yes,No,28,Viral Fever
+36.5,No,Yes,No,Yes,No,75,Viral Fever
+37.7,No,No,No,Yes,Yes,55,Viral Fever
+36.7,No,No,Yes,Yes,Yes,26,Allergy
+37.1,No,No,No,Yes,Yes,19,Viral Fever
+36.8,No,No,Yes,No,No,26,Allergy
+39.2,Yes,No,No,Yes,No,51,Flu
+37.3,Yes,Yes,No,No,No,58,Cold
+38.1,Yes,No,No,Yes,Yes,39,Flu
+37.2,Yes,Yes,No,Yes,Yes,4,Cold
+38.8,No,Yes,No,No,Yes,18,Viral Fever
+38.1,Yes,No,Yes,No,No,31,Viral Fever
+40.1,No,No,Yes,No,No,60,Allergy
+40.2,No,No,No,No,Yes,48,Viral Fever
+39.7,Yes,No,No,Yes,No,69,Flu
+37.5,No,No,Yes,Yes,Yes,13,Allergy
+38.8,Yes,Yes,Yes,Yes,Yes,77,COVID-19
+38.4,Yes,No,No,No,Yes,85,Viral Fever
+38.1,No,Yes,Yes,No,Yes,78,Allergy
+36.3,No,Yes,Yes,Yes,No,36,Allergy
+40,No,Yes,Yes,Yes,Yes,51,Flu
+39.8,Yes,Yes,No,Yes,No,52,Flu
+36.2,Yes,Yes,No,No,Yes,80,Cold
+38,No,Yes,Yes,No,No,78,Allergy
+40.3,Yes,Yes,No,No,No,64,Viral Fever
+40.4,No,Yes,No,No,Yes,73,Viral Fever
+36.6,Yes,No,No,No,Yes,7,Cold
+39,Yes,Yes,Yes,Yes,Yes,10,COVID-19
+36.5,No,No,No,No,Yes,1,Viral Fever
+37.5,Yes,Yes,No,Yes,Yes,46,Cold
+36.1,Yes,Yes,No,Yes,Yes,53,Cold
+39.9,No,No,No,No,No,83,Viral Fever
+39.5,Yes,Yes,No,Yes,No,24,Flu
+36.6,No,Yes,No,No,Yes,29,Viral Fever
+37.9,No,No,Yes,Yes,Yes,67,Allergy
+37.4,Yes,No,No,No,No,23,Cold
+40.1,Yes,Yes,No,Yes,Yes,58,COVID-19
+36.6,No,Yes,No,No,No,16,Viral Fever
+37,No,Yes,No,No,Yes,40,Viral Fever
+39.3,No,Yes,Yes,Yes,No,54,Flu
+38.9,Yes,No,No,Yes,Yes,81,COVID-19
+37.1,Yes,No,No,No,Yes,45,Cold
+37.4,No,Yes,No,Yes,No,40,Viral Fever
+38,Yes,Yes,Yes,No,No,38,Viral Fever
+37.8,Yes,No,Yes,Yes,No,79,Cold
+38.9,No,Yes,Yes,No,No,63,Allergy
+38.5,Yes,No,No,No,No,11,Viral Fever
+37.2,No,Yes,Yes,No,Yes,85,Allergy
+38,No,Yes,Yes,Yes,No,23,Allergy
+37.4,No,Yes,No,No,No,21,Viral Fever
+38.5,Yes,Yes,No,Yes,Yes,6,Flu
+36.8,Yes,Yes,Yes,Yes,No,78,Cold
+39.5,Yes,Yes,No,No,No,82,Viral Fever
+40.1,Yes,No,Yes,No,No,42,Viral Fever
+40.2,Yes,Yes,Yes,Yes,Yes,65,COVID-19
+40.2,No,No,Yes,No,No,35,Allergy
+39.7,Yes,Yes,No,Yes,Yes,40,COVID-19
+39.9,No,Yes,No,Yes,No,16,Flu
+39.5,No,No,No,Yes,Yes,30,Flu
+39.3,Yes,No,Yes,Yes,No,48,Flu
+37.5,No,Yes,No,No,No,67,Viral Fever
+39.2,No,No,No,No,No,13,Viral Fever
+38.6,Yes,No,Yes,Yes,No,61,Flu
+36.3,Yes,Yes,No,No,No,7,Cold
+39.5,Yes,No,Yes,Yes,No,24,Flu
+40.2,No,Yes,No,Yes,Yes,2,Flu
+38.5,No,No,Yes,No,Yes,50,Allergy
+40.4,No,No,Yes,No,No,51,Allergy
+38.1,Yes,No,No,No,Yes,12,Viral Fever
+36.3,No,No,Yes,No,No,26,Allergy
+39.4,Yes,Yes,Yes,No,Yes,81,COVID-19
+37.7,Yes,No,Yes,Yes,No,50,Cold
+36.8,No,Yes,No,Yes,No,42,Viral Fever
+36.4,Yes,No,Yes,No,No,62,Cold
+36.7,No,Yes,Yes,No,No,43,Allergy
+39.2,Yes,No,Yes,Yes,No,71,Flu
+37.5,Yes,Yes,Yes,Yes,Yes,33,Cold
+39,Yes,No,Yes,No,Yes,43,COVID-19
+36.2,Yes,No,No,No,No,60,Cold
+38,No,Yes,Yes,No,No,10,Allergy
+36.6,Yes,Yes,No,No,Yes,16,Cold
+36.1,Yes,Yes,No,Yes,No,74,Cold
+40.5,Yes,No,No,Yes,No,15,Flu
+38.1,Yes,Yes,Yes,No,Yes,7,Viral Fever
+36.8,No,Yes,Yes,Yes,No,68,Allergy
+38,Yes,Yes,No,No,Yes,60,Viral Fever
+38.7,No,Yes,No,No,Yes,80,Viral Fever
+38.4,Yes,No,Yes,Yes,No,58,Flu
+36.9,Yes,Yes,No,Yes,No,53,Cold
+37.2,Yes,No,Yes,No,No,42,Cold
+39.7,Yes,No,No,Yes,Yes,85,COVID-19
+37.7,No,No,No,No,Yes,77,Viral Fever
+39.1,Yes,No,Yes,Yes,Yes,78,COVID-19
+39.5,No,Yes,No,No,No,17,Viral Fever
+40.1,No,No,No,No,Yes,59,Viral Fever
+40.4,Yes,Yes,No,Yes,No,28,Flu
+36.4,Yes,Yes,Yes,Yes,Yes,57,Cold
+37.7,Yes,Yes,Yes,Yes,Yes,63,Cold
+38.2,Yes,Yes,No,Yes,Yes,26,Flu
+36.9,No,No,No,No,No,43,Viral Fever
+38.4,No,Yes,Yes,Yes,Yes,61,Flu
+37.1,Yes,Yes,Yes,Yes,No,43,Cold
+37.8,No,Yes,Yes,Yes,No,35,Allergy
+39.9,No,No,Yes,No,Yes,30,Allergy
+39.4,Yes,No,Yes,Yes,Yes,35,COVID-19
+36.6,Yes,No,No,No,No,63,Cold
+40.4,Yes,No,Yes,Yes,Yes,29,COVID-19
+37.9,No,No,Yes,No,Yes,1,Allergy
+38.1,Yes,No,No,Yes,No,74,Flu
+36.8,No,Yes,No,Yes,Yes,20,Viral Fever
+40,No,Yes,No,No,No,55,Viral Fever
+36.4,No,No,Yes,No,Yes,42,Allergy
+38.5,Yes,No,No,Yes,Yes,41,Flu
+38.9,Yes,No,Yes,Yes,Yes,19,COVID-19
+37,Yes,No,Yes,Yes,No,33,Cold
+37.7,No,No,Yes,Yes,Yes,20,Allergy
+36.5,Yes,Yes,Yes,Yes,No,62,Cold
+37,Yes,No,Yes,Yes,Yes,9,Cold
+38.2,No,Yes,Yes,No,No,4,Allergy
+38.7,Yes,No,No,Yes,Yes,17,COVID-19
+40.2,Yes,No,Yes,Yes,No,11,Flu
+38.9,Yes,Yes,Yes,Yes,Yes,51,COVID-19
+37.6,No,Yes,Yes,Yes,Yes,39,Allergy
+36.6,Yes,Yes,Yes,Yes,No,33,Cold
+38.9,No,Yes,Yes,Yes,No,52,Flu
+38.9,Yes,Yes,No,No,Yes,66,COVID-19
+38.6,Yes,Yes,Yes,No,No,44,Viral Fever
+40.4,No,No,No,No,No,25,Viral Fever
+37.1,Yes,No,No,Yes,Yes,46,Cold
+37.5,No,Yes,Yes,Yes,No,30,Allergy
+36.2,Yes,No,No,No,Yes,62,Cold
+39.9,Yes,Yes,Yes,No,No,2,Viral Fever
+36.7,Yes,No,No,Yes,Yes,59,Cold
+37.6,Yes,Yes,No,Yes,Yes,44,Cold
+36.7,No,Yes,Yes,No,Yes,47,Allergy
+37.5,No,No,Yes,No,No,67,Allergy
+37.8,Yes,Yes,No,No,No,48,Cold
+36,Yes,Yes,Yes,Yes,Yes,21,Cold
+40.5,No,Yes,No,Yes,Yes,23,Flu
+37.5,Yes,Yes,Yes,Yes,Yes,82,Cold
+39,Yes,Yes,No,No,No,85,Viral Fever
+38.3,No,Yes,No,No,Yes,39,Viral Fever
+36.9,Yes,Yes,No,Yes,No,67,Cold
+39.5,Yes,No,Yes,No,No,35,Viral Fever
+39.1,No,Yes,No,No,Yes,44,Viral Fever
+40.1,Yes,Yes,No,No,Yes,36,COVID-19
+37.2,No,No,Yes,No,Yes,35,Allergy
+38.4,Yes,No,Yes,No,Yes,29,Viral Fever
+38.2,No,No,Yes,No,No,43,Allergy
+38.8,Yes,Yes,Yes,Yes,Yes,10,COVID-19
+38,Yes,Yes,No,Yes,Yes,74,Viral Fever
+39.8,Yes,Yes,Yes,Yes,No,26,Flu
+38.4,No,No,Yes,Yes,Yes,29,Flu
+37.9,No,No,No,Yes,Yes,27,Viral Fever
+39.4,No,No,Yes,Yes,Yes,27,Flu
+39.1,No,Yes,Yes,Yes,No,37,Flu
+37.9,No,Yes,Yes,No,Yes,13,Allergy
+36.3,No,No,Yes,Yes,Yes,17,Allergy
+39.8,No,No,No,Yes,No,42,Flu
+40.4,No,No,Yes,No,No,30,Allergy
+38,No,No,No,Yes,Yes,29,Viral Fever
+38.4,Yes,Yes,No,No,Yes,68,Viral Fever
+39.9,No,No,No,Yes,Yes,76,Flu
+37.9,Yes,Yes,Yes,Yes,Yes,75,Cold
+39.3,No,No,No,Yes,Yes,10,Flu
+37.8,Yes,Yes,Yes,No,Yes,9,Cold
+37.8,No,Yes,Yes,No,No,61,Allergy
+37.9,No,Yes,Yes,No,Yes,8,Allergy
+37.6,No,No,No,No,No,2,Viral Fever
+36.9,Yes,Yes,No,Yes,Yes,31,Cold
+39.4,No,Yes,No,No,Yes,15,Viral Fever
+38.5,Yes,No,No,No,No,43,Viral Fever
+39.7,No,No,No,No,Yes,12,Viral Fever
+40,Yes,Yes,Yes,Yes,No,73,Flu
+36.4,Yes,No,Yes,Yes,No,62,Cold
+36.5,Yes,No,Yes,Yes,No,45,Cold
+38,No,Yes,No,Yes,Yes,3,Viral Fever
+38,No,Yes,No,Yes,No,4,Viral Fever
+39.9,No,No,No,Yes,No,76,Flu
+38,Yes,No,No,No,No,4,Viral Fever
+40.4,No,No,Yes,Yes,No,48,Flu
+39.5,Yes,Yes,No,Yes,Yes,61,COVID-19
+38.4,Yes,Yes,No,No,Yes,45,Viral Fever
+37.5,No,No,Yes,No,Yes,17,Allergy
+37.9,No,Yes,No,No,Yes,55,Viral Fever
+38,No,No,No,Yes,No,67,Viral Fever
+37,Yes,No,Yes,No,No,14,Cold
+38.3,Yes,Yes,Yes,Yes,Yes,22,Flu
+39.9,Yes,No,No,Yes,No,33,Flu
+38.7,Yes,No,No,No,Yes,72,COVID-19
+38.9,No,No,Yes,No,Yes,50,Allergy
+39.2,Yes,No,Yes,No,No,21,Viral Fever
+37.1,Yes,No,Yes,Yes,No,74,Cold
+39.2,No,Yes,No,No,No,31,Viral Fever
+38.4,No,No,No,No,Yes,50,Viral Fever
+37.8,No,No,Yes,Yes,Yes,35,Allergy
+39.7,Yes,Yes,Yes,Yes,Yes,19,COVID-19
+39.4,Yes,Yes,Yes,Yes,No,81,Flu
+37.3,No,Yes,No,Yes,Yes,55,Viral Fever
+40.4,No,No,No,No,Yes,63,Viral Fever
+37.9,No,Yes,No,No,Yes,13,Viral Fever
+37.1,Yes,Yes,Yes,Yes,No,5,Cold
+37.7,No,No,No,No,Yes,74,Viral Fever
+39,Yes,No,Yes,No,No,54,Viral Fever
+39.7,Yes,No,Yes,No,No,10,Viral Fever
+36.2,No,Yes,Yes,Yes,Yes,20,Allergy
+39.3,Yes,Yes,No,Yes,No,82,Flu
+37.3,No,No,Yes,No,Yes,11,Allergy
+38.2,No,No,No,Yes,No,7,Flu
+37.3,Yes,No,No,Yes,Yes,77,Cold
+39.3,No,Yes,No,Yes,No,33,Flu
+37.1,No,No,Yes,No,No,35,Allergy
+37.6,No,Yes,Yes,No,Yes,55,Allergy
+37.7,Yes,No,No,No,Yes,57,Cold
+38.3,Yes,No,Yes,Yes,Yes,28,Flu
+40.1,Yes,Yes,Yes,No,Yes,54,COVID-19
+39.3,Yes,No,Yes,Yes,No,7,Flu
+39.6,No,No,Yes,Yes,No,83,Flu
+40,Yes,Yes,No,No,No,17,Viral Fever
+40.2,Yes,No,Yes,Yes,No,10,Flu
+36.5,Yes,Yes,No,No,Yes,80,Cold
+36.7,Yes,Yes,No,Yes,Yes,77,Cold
+39.4,No,No,No,Yes,No,20,Flu
+36,No,No,No,No,Yes,67,Viral Fever
+37.6,No,No,Yes,No,No,6,Allergy
+37.4,Yes,No,Yes,No,Yes,32,Cold
+36.6,Yes,No,No,Yes,Yes,73,Cold
+37.6,Yes,No,Yes,No,No,42,Cold
+36,No,No,No,Yes,No,52,Viral Fever
+38.5,No,No,No,Yes,Yes,10,Flu
+38.6,No,No,Yes,No,No,38,Allergy
+40.2,Yes,Yes,Yes,Yes,Yes,47,COVID-19
+38,No,Yes,Yes,No,No,46,Allergy
+36,No,Yes,No,No,No,43,Viral Fever
+40,Yes,Yes,Yes,No,Yes,69,COVID-19
+38.3,No,Yes,Yes,No,Yes,82,Allergy
+37.1,No,Yes,No,Yes,No,1,Viral Fever
+39.2,Yes,Yes,Yes,Yes,No,56,Flu
+36.7,Yes,No,Yes,Yes,Yes,75,Cold
+36.2,Yes,Yes,Yes,Yes,No,15,Cold
+38.9,Yes,Yes,No,No,No,21,Viral Fever
+37,No,Yes,Yes,Yes,No,75,Allergy
+36.1,Yes,No,No,No,Yes,24,Cold
+39.7,Yes,No,No,No,Yes,22,COVID-19
+38.7,Yes,No,No,Yes,No,3,Flu
+40.1,No,No,Yes,No,No,5,Allergy
+38,Yes,No,No,Yes,No,30,Viral Fever
+36.6,No,No,No,Yes,Yes,22,Viral Fever
+36,No,Yes,No,Yes,No,43,Viral Fever
+38.6,Yes,No,No,No,Yes,64,COVID-19
+39.5,No,No,No,No,Yes,46,Viral Fever
+37.5,Yes,Yes,No,Yes,Yes,44,Cold
+38.5,No,No,Yes,Yes,No,10,Flu
+38.1,No,Yes,Yes,Yes,No,14,Flu
+37.6,No,Yes,Yes,No,No,35,Allergy
+40.2,No,Yes,Yes,No,No,52,Allergy
+38.1,Yes,Yes,No,Yes,No,34,Flu
+38.4,No,Yes,Yes,No,No,84,Allergy
+39.7,Yes,Yes,Yes,No,Yes,28,COVID-19
+38.9,No,Yes,Yes,No,No,14,Allergy
+36.4,Yes,No,No,No,Yes,62,Cold
+38.3,No,Yes,Yes,No,No,15,Allergy
+37.3,Yes,Yes,No,No,No,82,Cold
+39.7,No,No,No,Yes,Yes,38,Flu
+40,No,No,No,Yes,No,11,Flu
+37,No,Yes,Yes,Yes,No,63,Allergy
+36.2,Yes,Yes,No,No,No,83,Cold
+40.4,Yes,No,Yes,No,No,76,Viral Fever
+38.2,No,No,Yes,No,Yes,49,Allergy
+36.4,No,Yes,Yes,No,No,80,Allergy
+37.2,No,No,No,Yes,No,56,Viral Fever
+37.4,Yes,Yes,No,No,No,44,Cold
+36.7,No,No,No,No,No,53,Viral Fever
+37,No,Yes,No,Yes,No,55,Viral Fever
+37.9,Yes,Yes,No,No,No,38,Cold
+39.1,Yes,No,Yes,Yes,Yes,42,COVID-19
+36.6,No,No,No,No,No,26,Viral Fever
+36.9,Yes,Yes,Yes,Yes,Yes,24,Cold
+37.6,No,No,Yes,No,Yes,40,Allergy
+36.5,No,No,Yes,Yes,Yes,74,Allergy
+38.2,Yes,No,No,Yes,Yes,27,Flu
+38.1,Yes,Yes,Yes,Yes,Yes,17,Flu
+37.1,No,No,Yes,Yes,Yes,3,Allergy
+36.5,No,Yes,No,No,Yes,28,Viral Fever
+39.4,No,Yes,No,No,No,41,Viral Fever
+37.6,Yes,Yes,No,Yes,No,77,Cold
+38.6,No,Yes,Yes,No,Yes,72,Allergy
+38.4,Yes,No,No,No,No,50,Viral Fever
+39.4,No,Yes,No,No,Yes,43,Viral Fever
+37.8,Yes,No,Yes,No,Yes,68,Cold
+39.3,No,No,Yes,Yes,No,47,Flu
+39.3,Yes,Yes,No,No,No,25,Viral Fever
+36.7,No,Yes,Yes,No,No,18,Allergy
+36.3,Yes,Yes,No,Yes,Yes,19,Cold
+39.6,Yes,Yes,No,Yes,Yes,40,COVID-19
+36.5,No,Yes,No,Yes,No,17,Viral Fever
+36.4,No,No,No,No,Yes,30,Viral Fever
+37.4,No,No,Yes,No,No,77,Allergy
+40.4,No,No,No,No,Yes,53,Viral Fever
+37,No,Yes,Yes,No,No,80,Allergy
+36.3,Yes,No,Yes,No,Yes,65,Cold
+39.4,No,No,No,Yes,No,60,Flu
+38.8,No,No,Yes,Yes,Yes,78,Flu
+37.4,No,Yes,Yes,No,No,3,Allergy
+39,Yes,Yes,Yes,Yes,Yes,54,COVID-19
+39.2,No,Yes,No,No,No,60,Viral Fever
+40.1,Yes,Yes,No,No,Yes,75,COVID-19
+36.3,Yes,Yes,Yes,No,Yes,72,Cold
+39.6,Yes,No,Yes,Yes,No,34,Flu
+38.6,No,No,No,Yes,Yes,12,Flu
+39.9,No,No,No,No,Yes,24,Viral Fever
+40.3,Yes,No,No,Yes,Yes,10,COVID-19
+36.2,No,No,No,No,No,61,Viral Fever
+38.7,Yes,Yes,No,No,Yes,35,COVID-19
+36,No,Yes,No,No,No,63,Viral Fever
+40.1,No,Yes,Yes,No,No,7,Allergy
+36.1,Yes,Yes,No,No,No,25,Cold
+36.7,Yes,No,Yes,Yes,Yes,77,Cold
+39.1,No,Yes,Yes,No,No,47,Allergy
+36.9,No,Yes,No,No,Yes,22,Viral Fever
+37.7,Yes,No,No,Yes,Yes,71,Cold
+39,Yes,No,No,No,No,61,Viral Fever
+38.5,No,No,No,No,Yes,25,Viral Fever
+37.7,No,Yes,Yes,No,No,18,Allergy
+37.3,No,No,Yes,No,No,38,Allergy
+36.9,No,Yes,Yes,No,No,65,Allergy
+38.5,Yes,No,Yes,No,Yes,4,Viral Fever
+36.5,No,No,Yes,No,No,70,Allergy
+36.9,Yes,Yes,Yes,No,No,31,Cold
+38.4,Yes,No,Yes,Yes,No,48,Flu
+37.4,No,No,Yes,Yes,No,80,Allergy
+38.3,Yes,No,Yes,No,Yes,46,Viral Fever
+37.8,No,No,No,No,Yes,28,Viral Fever
+38.9,No,Yes,No,No,No,42,Viral Fever
+38.1,No,Yes,No,No,Yes,31,Viral Fever
+36.7,Yes,Yes,No,No,No,22,Cold
+39.2,No,No,Yes,Yes,Yes,82,Flu
+37.7,No,Yes,No,Yes,Yes,76,Viral Fever
+38.5,No,Yes,Yes,No,No,73,Allergy
+38.1,No,No,Yes,Yes,Yes,11,Flu
+37,Yes,Yes,No,Yes,No,44,Cold
+37.8,Yes,No,Yes,No,No,18,Cold
+37.7,Yes,Yes,Yes,Yes,No,6,Cold
+36.8,Yes,No,No,No,No,40,Cold
+36.2,Yes,No,No,Yes,Yes,47,Cold
+39.2,Yes,No,Yes,No,No,39,Viral Fever
+36.4,Yes,Yes,No,Yes,No,55,Cold
+40,Yes,No,No,Yes,No,68,Flu
+38.3,No,No,No,Yes,No,34,Flu
+38.6,Yes,Yes,No,Yes,Yes,39,COVID-19
+37.2,No,No,No,No,Yes,85,Viral Fever
+36.3,Yes,No,Yes,No,No,4,Cold
+39.8,No,Yes,Yes,No,No,77,Allergy
+36.2,No,Yes,Yes,Yes,Yes,28,Allergy
+38.7,No,No,Yes,No,Yes,14,Allergy
+37.1,Yes,Yes,No,Yes,Yes,79,Cold
+38.5,No,Yes,No,No,Yes,25,Viral Fever
+40.4,No,No,No,Yes,Yes,61,Flu
+37.9,No,Yes,No,No,Yes,64,Viral Fever
+37.1,No,No,No,Yes,Yes,42,Viral Fever
+37.8,No,Yes,No,Yes,No,85,Viral Fever
+36.2,No,No,No,Yes,No,59,Viral Fever
+38.5,Yes,Yes,No,No,No,78,Viral Fever
+39.4,Yes,No,No,No,No,61,Viral Fever
+39.9,Yes,No,Yes,No,No,18,Viral Fever
+39.3,No,No,No,No,No,26,Viral Fever
+36.3,No,Yes,No,Yes,Yes,37,Viral Fever
+37.5,Yes,No,Yes,Yes,Yes,70,Cold
+38.4,Yes,No,Yes,No,Yes,35,Viral Fever
+36.1,No,Yes,Yes,No,Yes,71,Allergy
+39.8,Yes,No,No,No,No,32,Viral Fever
+37.7,Yes,Yes,Yes,No,Yes,66,Cold
+38.2,Yes,Yes,Yes,Yes,Yes,10,Flu
+39,No,Yes,No,Yes,Yes,22,Flu
+38.3,No,No,Yes,No,Yes,13,Allergy
+39.6,Yes,Yes,No,Yes,No,65,Flu
+39.8,No,Yes,No,No,No,80,Viral Fever
+38.9,Yes,Yes,Yes,No,Yes,83,COVID-19
+39.5,Yes,No,Yes,Yes,No,36,Flu
+40.1,Yes,Yes,No,Yes,Yes,38,COVID-19
+36.7,Yes,No,Yes,Yes,Yes,64,Cold
+40.4,No,No,No,No,Yes,32,Viral Fever
+36.7,Yes,No,No,No,Yes,46,Cold
+37.1,Yes,Yes,No,No,Yes,76,Cold
+39.3,Yes,No,No,Yes,No,63,Flu
+38.6,No,Yes,Yes,Yes,Yes,34,Flu
+36.9,Yes,No,Yes,Yes,No,49,Cold
+40.4,Yes,Yes,Yes,Yes,Yes,79,COVID-19
+36.3,No,No,Yes,Yes,No,44,Allergy
+39.8,No,Yes,Yes,No,Yes,6,Allergy
+38.4,Yes,No,Yes,Yes,Yes,70,Flu
+38.5,No,No,No,No,No,75,Viral Fever
+38.2,No,No,Yes,Yes,No,70,Flu
+39.6,Yes,No,Yes,No,No,23,Viral Fever
+37.2,No,No,Yes,No,Yes,68,Allergy
+37.3,Yes,Yes,Yes,Yes,Yes,65,Cold
+37.2,No,No,No,Yes,Yes,12,Viral Fever
+37.3,Yes,No,No,No,No,5,Cold
+36.9,Yes,Yes,No,Yes,No,79,Cold
+37.9,No,Yes,No,No,Yes,1,Viral Fever
+39.6,Yes,No,No,No,No,60,Viral Fever
+36.2,Yes,No,No,Yes,No,58,Cold
+38.9,No,No,No,No,Yes,58,Viral Fever
+37.7,Yes,No,Yes,No,No,59,Cold
+39.6,Yes,Yes,Yes,Yes,No,44,Flu
+37.7,No,No,No,No,Yes,25,Viral Fever
+38,No,No,Yes,Yes,No,28,Allergy
+38.7,Yes,Yes,Yes,No,No,11,Viral Fever
+36.3,Yes,Yes,No,Yes,No,33,Cold
+37.8,No,Yes,No,No,Yes,17,Viral Fever
+40,Yes,No,Yes,Yes,Yes,37,COVID-19
+40,No,No,Yes,Yes,No,68,Flu
+39.6,Yes,No,No,Yes,No,20,Flu
+38.1,Yes,No,No,Yes,Yes,13,Flu
+37.3,No,Yes,No,Yes,No,25,Viral Fever
+37.9,No,Yes,Yes,No,Yes,17,Allergy
+38.2,Yes,Yes,Yes,Yes,No,58,Flu
+36.2,Yes,Yes,No,Yes,No,8,Cold
+39.3,Yes,No,Yes,Yes,Yes,19,COVID-19
+37.9,No,Yes,Yes,No,No,31,Allergy
+38.7,Yes,No,Yes,Yes,Yes,78,COVID-19
+36.6,No,No,Yes,No,Yes,73,Allergy
+39.5,Yes,No,No,No,Yes,15,COVID-19
+39.7,Yes,No,Yes,No,No,23,Viral Fever
+39.5,No,Yes,Yes,Yes,No,84,Flu
+37.7,No,No,Yes,Yes,No,44,Allergy
+37.1,Yes,No,Yes,Yes,No,49,Cold
+36.5,Yes,No,No,No,No,81,Cold
+37.4,Yes,No,Yes,No,No,44,Cold
+37.5,Yes,No,Yes,Yes,Yes,68,Cold
+36.4,No,Yes,No,No,No,49,Viral Fever
+39.7,Yes,Yes,Yes,No,Yes,77,COVID-19
+37.4,Yes,Yes,Yes,No,Yes,2,Cold
+37.2,No,Yes,No,Yes,Yes,34,Viral Fever
+40.1,Yes,Yes,No,Yes,Yes,38,COVID-19
+38.4,Yes,Yes,Yes,No,Yes,37,Viral Fever
+37,No,No,Yes,No,No,45,Allergy
+40.3,Yes,Yes,No,No,Yes,65,COVID-19
+39.5,Yes,Yes,Yes,Yes,Yes,48,COVID-19
+37.8,Yes,Yes,Yes,Yes,No,77,Cold
+38.3,Yes,No,No,Yes,No,23,Flu
+39.3,No,No,No,No,No,28,Viral Fever
+37.1,No,Yes,Yes,No,No,12,Allergy
+37.8,Yes,No,No,No,Yes,42,Cold
+37.9,Yes,No,No,No,Yes,46,Cold
+39.4,No,Yes,Yes,Yes,Yes,31,Flu
+37,Yes,Yes,No,No,No,76,Cold
+37.6,No,No,No,Yes,No,70,Viral Fever
+39.9,Yes,Yes,No,No,Yes,42,COVID-19
+39.4,Yes,No,No,Yes,Yes,36,COVID-19
+36.2,Yes,No,Yes,No,Yes,16,Cold
+38.2,Yes,No,Yes,Yes,Yes,64,Flu
+37.8,No,Yes,No,Yes,Yes,2,Viral Fever
+39.3,No,No,Yes,Yes,Yes,21,Flu
+36.1,No,No,No,Yes,No,58,Viral Fever
+38.6,No,No,No,Yes,No,43,Flu
+38.2,No,Yes,No,No,No,9,Viral Fever
+36.8,Yes,Yes,No,No,Yes,26,Cold
+40.4,No,Yes,No,No,No,34,Viral Fever
+39,No,No,No,Yes,Yes,22,Flu
+40.2,No,Yes,Yes,No,No,84,Allergy
+38.2,Yes,No,No,Yes,No,46,Flu
+39.1,Yes,Yes,No,Yes,No,78,Flu
+36.9,Yes,Yes,Yes,Yes,No,81,Cold
+38.6,Yes,No,No,Yes,No,72,Flu
+39,Yes,Yes,No,No,Yes,83,COVID-19
+38.3,Yes,No,Yes,Yes,Yes,61,Flu
+36.8,No,Yes,Yes,No,Yes,13,Allergy
+38.6,No,No,No,Yes,No,58,Flu
+39.6,No,Yes,No,No,No,18,Viral Fever
+39.8,No,Yes,No,Yes,Yes,69,Flu
+39,No,No,No,No,Yes,78,Viral Fever
+38.5,No,Yes,No,Yes,Yes,14,Flu
+39.3,Yes,Yes,No,Yes,No,26,Flu
+39,No,No,Yes,Yes,No,77,Flu
+39.7,No,Yes,No,No,Yes,77,Viral Fever
+38.8,No,No,No,No,No,75,Viral Fever
+37.6,Yes,No,Yes,No,Yes,29,Cold
+38.1,Yes,Yes,No,No,Yes,64,Viral Fever
+39.3,No,Yes,No,No,Yes,61,Viral Fever
+38.3,Yes,No,Yes,No,No,77,Viral Fever
+39,Yes,No,No,Yes,Yes,71,COVID-19
+37.6,Yes,No,Yes,No,No,71,Cold
+38.8,No,Yes,No,No,Yes,67,Viral Fever
+40.2,No,No,No,No,No,42,Viral Fever
+37.6,Yes,Yes,No,Yes,Yes,24,Cold
+36.4,Yes,No,No,No,No,46,Cold
+39.1,No,No,No,Yes,No,14,Flu
+38.7,Yes,Yes,Yes,No,No,18,Viral Fever
+38.7,No,No,Yes,No,No,75,Allergy
+36.4,Yes,Yes,No,No,No,1,Cold
+39.5,Yes,No,Yes,Yes,No,16,Flu
+39.1,No,Yes,Yes,Yes,No,85,Flu
+39.4,Yes,Yes,No,No,Yes,59,COVID-19
+38.6,No,Yes,No,No,No,45,Viral Fever
+37.5,No,No,Yes,Yes,Yes,82,Allergy
+39.8,Yes,Yes,No,No,No,43,Viral Fever
+37.6,No,No,Yes,No,No,47,Allergy
+36.5,No,Yes,No,No,No,67,Viral Fever
+36.5,No,Yes,No,No,No,16,Viral Fever
+36.3,No,No,Yes,No,Yes,51,Allergy
+38.6,Yes,No,No,Yes,Yes,44,COVID-19
+40.3,Yes,Yes,No,No,No,28,Viral Fever
+39.8,No,No,Yes,Yes,Yes,44,Flu
+36.2,Yes,Yes,Yes,Yes,Yes,35,Cold
+40.2,No,No,Yes,Yes,No,75,Flu
+40.2,Yes,No,No,No,No,8,Viral Fever
+36.1,No,No,Yes,No,No,3,Allergy
+39.8,No,No,No,No,Yes,43,Viral Fever
+38.1,No,Yes,No,No,Yes,11,Viral Fever
+38.7,No,No,No,No,Yes,37,Viral Fever
+38.2,Yes,Yes,No,No,No,50,Viral Fever
+39,Yes,No,Yes,Yes,Yes,80,COVID-19
+36.9,Yes,Yes,No,Yes,Yes,30,Cold
+37.6,No,No,Yes,Yes,Yes,16,Allergy
+36.3,Yes,Yes,No,No,No,16,Cold
+37.6,Yes,Yes,Yes,No,Yes,38,Cold
+36.5,No,Yes,Yes,Yes,Yes,59,Allergy
+38.5,Yes,No,Yes,No,No,9,Viral Fever
+40.4,No,No,Yes,Yes,Yes,6,Flu
+39.3,Yes,No,Yes,No,No,6,Viral Fever
+38.3,No,No,No,No,Yes,29,Viral Fever
+40,Yes,Yes,Yes,Yes,No,76,Flu
+37.1,No,Yes,Yes,Yes,Yes,62,Allergy
+39,No,No,No,Yes,Yes,15,Flu
+38.5,No,No,No,No,Yes,31,Viral Fever
+37.2,Yes,No,No,No,No,11,Cold
+39.3,No,Yes,Yes,Yes,No,39,Flu
+36.7,No,Yes,No,Yes,Yes,34,Viral Fever
+37.3,No,No,Yes,Yes,No,74,Allergy
+39.3,No,No,Yes,Yes,No,30,Flu
+38.1,No,Yes,Yes,Yes,No,45,Flu
+36.1,No,No,No,Yes,No,11,Viral Fever
+38,Yes,Yes,No,Yes,Yes,33,Viral Fever
+37.3,Yes,No,No,Yes,No,36,Cold
+37.7,Yes,Yes,No,Yes,Yes,2,Cold
+37,Yes,Yes,No,Yes,No,84,Cold
+38.4,No,No,Yes,Yes,Yes,9,Flu
+39.8,No,No,No,No,No,19,Viral Fever
+37.7,No,Yes,No,No,No,67,Viral Fever
+37.5,Yes,No,No,Yes,Yes,62,Cold
+38.5,Yes,Yes,No,No,Yes,54,Viral Fever
+40.3,Yes,No,Yes,No,No,80,Viral Fever
+39.2,No,Yes,Yes,Yes,Yes,48,Flu
+40.4,Yes,Yes,Yes,Yes,No,76,Flu
+36.1,Yes,No,No,No,Yes,79,Cold
+37.4,Yes,No,No,No,No,61,Cold
+39.8,Yes,Yes,Yes,No,No,14,Viral Fever
+40.1,Yes,No,No,No,Yes,38,COVID-19
+39.9,Yes,No,No,Yes,No,38,Flu
+37.7,Yes,No,No,Yes,No,19,Cold
+39.2,Yes,No,No,No,No,66,Viral Fever
+37.4,Yes,No,Yes,Yes,No,44,Cold
+38,Yes,No,Yes,Yes,Yes,36,Viral Fever
+36.7,Yes,Yes,Yes,Yes,Yes,29,Cold
+40.3,Yes,Yes,Yes,Yes,Yes,69,COVID-19
+40.2,Yes,Yes,Yes,No,Yes,85,COVID-19
+40.3,Yes,Yes,No,Yes,No,75,Flu
+38.3,Yes,Yes,Yes,Yes,No,36,Flu
+38.3,No,No,Yes,No,Yes,31,Allergy
+38.5,Yes,No,No,No,No,77,Viral Fever
+36.6,No,No,Yes,No,No,8,Allergy
+39.6,Yes,No,No,Yes,Yes,54,COVID-19
+39.2,Yes,No,Yes,Yes,Yes,84,COVID-19
+40.4,Yes,Yes,No,No,No,9,Viral Fever
+37.7,Yes,Yes,Yes,Yes,Yes,77,Cold
+38.1,No,Yes,Yes,Yes,No,63,Flu
+37.7,No,Yes,Yes,Yes,Yes,65,Allergy
+36.3,No,Yes,Yes,Yes,No,20,Allergy
+36.3,No,No,Yes,No,No,32,Allergy
+36.8,No,No,Yes,Yes,Yes,54,Allergy
+37.1,No,Yes,Yes,Yes,Yes,49,Allergy
+37,Yes,Yes,No,No,No,72,Cold
+36.5,No,No,No,No,No,65,Viral Fever
+38.5,Yes,Yes,No,No,Yes,21,Viral Fever
+36.4,No,Yes,Yes,Yes,Yes,68,Allergy
+36.3,Yes,No,Yes,Yes,Yes,7,Cold
+40.5,Yes,Yes,Yes,No,Yes,20,COVID-19
+37.6,No,Yes,No,Yes,Yes,58,Viral Fever
+39.7,Yes,Yes,No,No,Yes,79,COVID-19
+36,Yes,Yes,Yes,Yes,Yes,13,Cold
+37.4,Yes,Yes,No,No,Yes,44,Cold
+39.9,Yes,Yes,Yes,No,Yes,7,COVID-19
+38.5,No,Yes,Yes,No,Yes,57,Allergy
+39.9,No,Yes,No,Yes,Yes,36,Flu
+37.4,No,Yes,No,No,Yes,8,Viral Fever
+37.6,No,No,No,Yes,No,41,Viral Fever
